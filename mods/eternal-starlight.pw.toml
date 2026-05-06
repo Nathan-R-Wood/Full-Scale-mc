@@ -1,0 +1,13 @@
+name = "Eternal Starlight"
+filename = "eternalstarlight-0.7.0-hotfix+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XvcfUGfB/versions/CD4xFiR9/eternalstarlight-0.7.0-hotfix%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "7c7355d418d3ccde020f08caea635a4243afef0aad6bed19d9c684e0b2df52c2c523d4dec75862a47b5948adf1576bbc532cb0bd724940bca3aeb6be8a1fca9f"
+
+[update]
+[update.modrinth]
+mod-id = "XvcfUGfB"
+version = "CD4xFiR9"
