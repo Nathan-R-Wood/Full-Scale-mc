@@ -1,0 +1,13 @@
+name = "Mama's Herbs and Harvest"
+filename = "herbsandharvest-1.21.1-11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vTwXWT6w/versions/qf9AUBCC/herbsandharvest-1.21.1-11.jar"
+hash-format = "sha512"
+hash = "b4a3df8f34a89711076f444bb437bfa120f891b99405e294bdde8662d13c07be10396ac7ce02abfb43717e0560a4b77d176c6e3ef17e32b32f64895d0fa95889"
+
+[update]
+[update.modrinth]
+mod-id = "vTwXWT6w"
+version = "qf9AUBCC"

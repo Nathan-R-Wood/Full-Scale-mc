@@ -1,0 +1,13 @@
+name = "Modular Force Field Systems"
+filename = "modularforcefields-1.21.1-0.4.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HsXNjsi5/versions/zoboG8RR/modularforcefields-1.21.1-0.4.0-1.jar"
+hash-format = "sha512"
+hash = "53f4918c6d5fe60c214ed3c969d954059b0ab89537cfbd454e04171edf00c144b9315ec1e89dbd5349d857094661b1fad871e765e70d66fbd6781d9f71f878fd"
+
+[update]
+[update.modrinth]
+mod-id = "HsXNjsi5"
+version = "zoboG8RR"

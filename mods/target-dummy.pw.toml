@@ -1,0 +1,13 @@
+name = "Target Dummy"
+filename = "target-dummy-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vrZoMowq/versions/79FafNI5/target-dummy-v1.0.0.jar"
+hash-format = "sha512"
+hash = "0ffed216b5366ee1c7ffa360560ced08b942a1714a319877efe5530d5dd25171d10e868bec87a8855f109f6a3e77c992f809d10e51134885fdc72e61890fe40b"
+
+[update]
+[update.modrinth]
+mod-id = "vrZoMowq"
+version = "79FafNI5"

@@ -1,0 +1,13 @@
+name = "Factory Blocks"
+filename = "factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ht0eTMEs/versions/7ugThhI5/factory_blocks-neoforge-1.4.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "089c9c8000ce5950b41121fc28b674042cc44c14f9c33d7e373b40b5037ab1502395ae7186f00cfe8e2dd00996db32cbd355d49437808a7ae7b08059b95b57ec"
+
+[update]
+[update.modrinth]
+mod-id = "ht0eTMEs"
+version = "7ugThhI5"

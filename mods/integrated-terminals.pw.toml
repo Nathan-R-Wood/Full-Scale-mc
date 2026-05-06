@@ -1,0 +1,13 @@
+name = "Integrated Terminals"
+filename = "integratedterminals-1.21.1-neoforge-1.6.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/kNjGaBcX/integratedterminals-1.21.1-neoforge-1.6.28.jar"
+hash-format = "sha512"
+hash = "cf1c7791ab40af96d992f3df2fb3887670fae1e0c7e9b8d824e6df68048f87d0910acccf5fbee9f7949ec561a95949ece85ee6fcabfd7376ff8b4d2ebfcf33b7"
+
+[update]
+[update.modrinth]
+mod-id = "HmLJoQ1K"
+version = "kNjGaBcX"
