@@ -1,0 +1,13 @@
+name = "RFTools Storage"
+filename = "rftoolsstorage-1.21-6.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tx4M6qRg/versions/htGVVyMF/rftoolsstorage-1.21-6.0.4.jar"
+hash-format = "sha512"
+hash = "48b5870d9bf873817f551fb34e3b27b1506438cc4397b9d4c8cc5993be20a8c9012c5ad293e90fdcd055f6a32110df64929f28635e4d0f674dbc8ade325bbe9f"
+
+[update]
+[update.modrinth]
+mod-id = "tx4M6qRg"
+version = "htGVVyMF"

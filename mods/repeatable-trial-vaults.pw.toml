@@ -1,0 +1,13 @@
+name = "Repeatable Trial Vaults"
+filename = "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5RO5CdUY/versions/YYM2RhFD/repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+hash-format = "sha512"
+hash = "df33f96643dd645af25d27c03d2d5ce75540be4bf58f7c7dc4b532e6d9fdf20b98b727c649cccf620a400dd7d2c4944febdb38a597d45d91ba32f476b72b5b61"
+
+[update]
+[update.modrinth]
+mod-id = "5RO5CdUY"
+version = "YYM2RhFD"

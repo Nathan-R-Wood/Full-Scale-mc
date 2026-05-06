@@ -1,0 +1,13 @@
+name = "XNet"
+filename = "xnet-1.21-7.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iu1jkWqa/versions/3EMozZSo/xnet-1.21-7.0.6.jar"
+hash-format = "sha512"
+hash = "07a9c47fe97c683fbdc05f67a9525d18693d0e55b5cbb5dbb770f6a8618c65f3f0c115ddc0260da42e17bd9e4bddb8966784cb1559246e0d122f34ff98637d39"
+
+[update]
+[update.modrinth]
+mod-id = "iu1jkWqa"
+version = "3EMozZSo"

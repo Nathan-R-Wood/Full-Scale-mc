@@ -1,0 +1,13 @@
+name = "Restrictions"
+filename = "restrictions-1.21-7.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oevBqQRC/versions/QiLugx4P/restrictions-1.21-7.0.3.jar"
+hash-format = "sha512"
+hash = "3bfdeff22e03b0b545ce598edd8d60e5cfa4c21fa7ce0dd1afab9493cbb79801940275564d0164044f9fecbd4bc43e379e24c39e1fa58cf6d5898cb9399e7879"
+
+[update]
+[update.modrinth]
+mod-id = "oevBqQRC"
+version = "QiLugx4P"
