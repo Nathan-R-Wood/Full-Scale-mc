@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi/datapacks/full_scale.zip"
-hash = "60502ed2e705341f8ef5414122843fe02709a73699266e43f38fb5da32fa93ec"
-
-[[files]]
 file = "config/paxi/datapacks/jjthunder-hell-is-fire.pw.toml"
 hash = "d5f071b3eb72983da46e052dec9dbe10471fbd3b978625ac952901e4d482d011"
 metafile = true
@@ -66,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
-metafile = true
-
-[[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
@@ -819,11 +810,6 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
-metafile = true
-
-[[files]]
 file = "mods/occultism.pw.toml"
 hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
 metafile = true
@@ -1051,11 +1037,6 @@ metafile = true
 [[files]]
 file = "mods/shrink.pw.toml"
 hash = "16d05386b8fd97a2768f391fe5a233be45a72ee396ac3ab2ab7bf034a4483015"
-metafile = true
-
-[[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
 
 [[files]]
