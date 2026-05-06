@@ -15,6 +15,10 @@ hash = "eccfc46915824bef76834b5b79e799e6180d2f14b8fb456e66bd51dea09ac695"
 metafile = true
 
 [[files]]
+file = "config/regions_unexplored/common.toml"
+hash = "a758147ad046b903a78b18b7043e18d5b635c46154be618d86681c1f387c4e3f"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
