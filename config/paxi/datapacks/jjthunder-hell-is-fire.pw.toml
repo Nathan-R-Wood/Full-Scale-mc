@@ -1,0 +1,13 @@
+name = "JJThunder Hell Is Fire"
+filename = "JJThunder_Hell_Is_Fire_1.21.0-1.21.1_v0.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q97CFELK/versions/GejL6cYH/JJThunder_Hell_Is_Fire_1.21.0-1.21.1_v0.1.0.zip"
+hash-format = "sha512"
+hash = "f262211de0e81eb4313110eaa0d98c48c8875f4fa62b72b780619a91d0cf556be2ad2dedb87c794dd3d7425c56a6a508f891b8fba84bb540d461c107069e3aa0"
+
+[update]
+[update.modrinth]
+mod-id = "Q97CFELK"
+version = "GejL6cYH"

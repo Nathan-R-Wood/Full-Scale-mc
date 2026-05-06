@@ -1,0 +1,16 @@
+name = "Full Scale"
+author = "Nathan Wood"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8bac60e88df89259f4701197dddb932c8a7458ef8e80ad5480b7070ee4bab6f2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
+
+[options]
+datapack-folder = "config/paxi/datapacks"
