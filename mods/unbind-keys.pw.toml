@@ -1,0 +1,13 @@
+name = "Unbind keys"
+filename = "unbindkeys-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VluCfWVI/versions/J0M2LWpQ/unbindkeys-1.0.0.jar"
+hash-format = "sha512"
+hash = "3aaf87d6059839639f4c77ba4c6b409e569ab27d8d77fbcbba5c7de5d90530fcb3c1e918858b2c93d59e858285b34aeeda19318edeeca2005c03ec0eb89545e7"
+
+[update]
+[update.modrinth]
+mod-id = "VluCfWVI"
+version = "J0M2LWpQ"
