@@ -1,0 +1,13 @@
+name = "Waystones: Sable (Create Aeronautics Addon)"
+filename = "waystonessable-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BxhPGfcK/versions/jWfLRjhU/waystonessable-1.0.2.jar"
+hash-format = "sha512"
+hash = "7f4623281262bf2f47f54f9dec5866115c0b6c639f228664df1aabdb2ff372ca906fdb9bcf7a45f6dddfbcfbcf1abf0151d24c741d50761bfcd7123ea6c5012e"
+
+[update]
+[update.modrinth]
+mod-id = "BxhPGfcK"
+version = "jWfLRjhU"
