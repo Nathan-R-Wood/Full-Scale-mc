@@ -1,0 +1,13 @@
+name = "NumFlux"
+filename = "NumFlux-1.0.3-1.21.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Bm2WDXm/versions/ceg9iLeI/NumFlux-1.0.3-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "7a04e028635927f89bfd96d99fc9a82f8b019679b87063ba72fbfe37c98366ae60740d7ba800404b4167e2b72b9dbc728da16068926b5d804c4340368622761c"
+
+[update]
+[update.modrinth]
+mod-id = "1Bm2WDXm"
+version = "ceg9iLeI"

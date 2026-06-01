@@ -1,7 +1,7 @@
 FROM docker.io/openjdk:26-ea-25-bookworm as builder
 RUN mkdir -p /Minecraft
 WORKDIR /Minecraft
-ADD https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.228/neoforge-21.1.228-installer.jar /Minecraft/mc.jar
+ADD https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-installer.jar /Minecraft/mc.jar
 ADD https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar /Minecraft
 RUN echo "eula=true" > eula.txt
 COPY . /Minecraft
@@ -21,4 +21,4 @@ RUN apk add libc6-compat --no-cache
 COPY --from=builder /Minecraft /Minecraft
 WORKDIR /Minecraft
 ENV RAM 4G
-CMD ["sh", "-c", "java -Xmx$RAM @libraries/net/neoforged/neoforge/21.1.228/unix_args.txt '$@' nogui"]
+CMD ["sh", "-c", "java -Xmx$RAM @libraries/net/neoforged/neoforge/21.1.230/unix_args.txt '$@' nogui"]

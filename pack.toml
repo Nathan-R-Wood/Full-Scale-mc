@@ -1,12 +1,12 @@
 name = "Full Scale"
 author = "Nathan Wood"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "040159ed7807633007091812a1f8622485e7bfc7364882bfd3560a62e21b4c28"
+hash = "811014071ba6f9a64629e729127f862d2d1a287e4e8a83f3339ba7a6772e4fae"
 
 [versions]
 minecraft = "1.21.1"

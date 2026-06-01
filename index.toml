@@ -20,6 +20,11 @@ hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
 
 [[files]]
+file = "mods/acceleratedrendering.pw.toml"
+hash = "1c667c64f65faf1b9b91e3d647e14f9105c0747ae0237d63b269b7d5e7e0dde4"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "0bb40232f5746284ea4ef40618a989669fcb7eaa5df587a07139fe20d6e1a9f9"
 metafile = true
@@ -132,6 +137,16 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
+file = "mods/async-locator-refined.pw.toml"
+hash = "45f7a72d3b963282b21664f6c2743f2fa7c8f1a00ce220953fe11b4462e205e7"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
 metafile = true
 
 [[files]]
@@ -500,8 +515,18 @@ hash = "eb9b9703163fc44d7538703aeff287fd7f3e83da44829ec6901cdff0c165a1c6"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fix-attack-lag.pw.toml"
+hash = "79b34cb9bb271a1ff358f74fb5640cc257d6aee6a2fac101f23d30f665b4a3d4"
 metafile = true
 
 [[files]]
@@ -552,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-energistics.pw.toml"
 hash = "567f997ec5a0531301e048ec41ebc3f0ade57f1fe01ada9f8568954711574012"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
 metafile = true
 
 [[files]]
@@ -687,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu-reloaded.pw.toml"
+hash = "553e1aac7a30d7c48b874cd125ad93a2d1580100c93b753887cf19ee5eb6a632"
 metafile = true
 
 [[files]]
@@ -935,6 +970,16 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
+file = "mods/numflux.pw.toml"
+hash = "90d23233d3f58d3cdd195321cd6216001b5d26ea73457628935a8308d17199d9"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
 metafile = true
@@ -972,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -1052,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/pylons.pw.toml"
 hash = "a503bf930c565cec29590565c5fb07a81d61e818d39a592042d484c37cacc42a"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "55fe49c1872586b7c987eddf92be04aa7c8b837807b261f71474b15e3ab8cc39"
 metafile = true
 
 [[files]]
@@ -1180,6 +1235,11 @@ hash = "143324f103b28e6f799e808ce1ff20eab1aea7485be406c3ff95d7f007920e84"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
+metafile = true
+
+[[files]]
 file = "mods/shrink.pw.toml"
 hash = "16d05386b8fd97a2768f391fe5a233be45a72ee396ac3ab2ab7bf034a4483015"
 metafile = true
@@ -1252,6 +1312,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
+metafile = true
+
+[[files]]
+file = "mods/superresolution.pw.toml"
+hash = "f0fce25c92b63599668eb43d520ab56773ea60718c0fd558dbc59549afc6cd9f"
 metafile = true
 
 [[files]]

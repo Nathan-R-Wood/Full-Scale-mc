@@ -1,0 +1,13 @@
+name = "Fix Attack Lag"
+filename = "fix_attack_lag-1.2.0-1.21.1-Neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktgrt7RD/versions/kToKxuhS/fix_attack_lag-1.2.0-1.21.1-Neoforge.jar"
+hash-format = "sha512"
+hash = "428db39630774f5fcc26a8e25e0d239003b40938722b403a85cb379ecfafe21253c2c5fcf13497c42fcc63d1bb2b487a6e62b6934ddd1fb797b036789f3b6e3b"
+
+[update]
+[update.modrinth]
+mod-id = "ktgrt7RD"
+version = "kToKxuhS"

@@ -1,0 +1,13 @@
+name = "Accelerated Rendering"
+filename = "acceleratedrendering-1.0.9-1.21.1-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfECZO3a/versions/X99sDdlN/acceleratedrendering-1.0.9-1.21.1-alpha.jar"
+hash-format = "sha512"
+hash = "0c0f3a39b0f11270559fd417e663ecb83433d6736f506c2cba2256574cd60ec4fa761ce26824bed5a152f642835e3d8f72f793c3f80415cab1cc3a907796445b"
+
+[update]
+[update.modrinth]
+mod-id = "DfECZO3a"
+version = "X99sDdlN"
