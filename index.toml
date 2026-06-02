@@ -140,16 +140,6 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
-file = "mods/async-locator-refined.pw.toml"
-hash = "45f7a72d3b963282b21664f6c2743f2fa7c8f1a00ce220953fe11b4462e205e7"
-metafile = true
-
-[[files]]
-file = "mods/async.pw.toml"
-hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
@@ -580,11 +570,6 @@ hash = "567f997ec5a0531301e048ec41ebc3f0ade57f1fe01ada9f8568954711574012"
 metafile = true
 
 [[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
@@ -970,11 +955,6 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
-file = "mods/numflux.pw.toml"
-hash = "90d23233d3f58d3cdd195321cd6216001b5d26ea73457628935a8308d17199d9"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
@@ -1017,11 +997,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -1102,11 +1077,6 @@ metafile = true
 [[files]]
 file = "mods/pylons.pw.toml"
 hash = "a503bf930c565cec29590565c5fb07a81d61e818d39a592042d484c37cacc42a"
-metafile = true
-
-[[files]]
-file = "mods/quick-pack.pw.toml"
-hash = "55fe49c1872586b7c987eddf92be04aa7c8b837807b261f71474b15e3ab8cc39"
 metafile = true
 
 [[files]]
@@ -1232,11 +1202,6 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "143324f103b28e6f799e808ce1ff20eab1aea7485be406c3ff95d7f007920e84"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
